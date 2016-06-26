@@ -1,0 +1,4 @@
+data/html
+data/json
+.ipynb_checkpoints/
+.DS_Store
